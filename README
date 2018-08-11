@@ -5,4 +5,4 @@ by Julian Yocum
 src/generator.py	Neural Network Generator
 /data/network.pkl	Save location for network
 
-src/application.py		Main application
+src/app.py		Main application
