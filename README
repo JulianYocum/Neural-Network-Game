@@ -1,0 +1,8 @@
+ANN Digit Recognition game for MOSTEC 2018
+by Julian Yocum
+
+
+src/generator.py	Neural Network Generator
+/data/network.pkl	Save location for network
+
+src/application.py		Main application
